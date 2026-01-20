@@ -12,5 +12,5 @@
 </div>
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=apprentice&username=herilesmana" alt="Heri Lesmana" width="205" />
-  <img src="https://github-readme-stats.vercel.app/api?username=herilesmana&show_icons=true&theme=apprentice&count_private=true" />
+  <img src="./profile/stats.svg" />
 </div>
