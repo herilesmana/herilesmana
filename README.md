@@ -19,12 +19,16 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herilesmana/herilesmana/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herilesmana/herilesmana/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/herilesmana/herilesmana/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <div id="stats" align="center">
   <img src="./profile/stats.svg" />
 </div>
