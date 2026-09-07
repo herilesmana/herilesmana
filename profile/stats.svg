@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Heri Lesmana's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 1934, Total PRs: 41, Total Issues: 38, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 1917, Total PRs: 41, Total Issues: 38, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 121.28255814681522;
+        stroke-dashoffset: 121.29204080633312;
       }
     }
   
